@@ -1,0 +1,17 @@
+C:\WebJet\Core\FlightsDashboard\Core.Services\bin\Debug\net6.0\Core.Services.deps.json
+C:\WebJet\Core\FlightsDashboard\Core.Services\bin\Debug\net6.0\Core.Services.dll
+C:\WebJet\Core\FlightsDashboard\Core.Services\bin\Debug\net6.0\ref\Core.Services.dll
+C:\WebJet\Core\FlightsDashboard\Core.Services\bin\Debug\net6.0\Core.Services.pdb
+C:\WebJet\Core\FlightsDashboard\Core.Services\bin\Debug\net6.0\Core.DataAccess.dll
+C:\WebJet\Core\FlightsDashboard\Core.Services\bin\Debug\net6.0\Core.ServiceInterfaces.dll
+C:\WebJet\Core\FlightsDashboard\Core.Services\bin\Debug\net6.0\Core.DataAccess.pdb
+C:\WebJet\Core\FlightsDashboard\Core.Services\bin\Debug\net6.0\Core.ServiceInterfaces.pdb
+C:\WebJet\Core\FlightsDashboard\Core.Services\obj\Debug\net6.0\Core.Services.csproj.AssemblyReference.cache
+C:\WebJet\Core\FlightsDashboard\Core.Services\obj\Debug\net6.0\Core.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebJet\Core\FlightsDashboard\Core.Services\obj\Debug\net6.0\Core.Services.AssemblyInfoInputs.cache
+C:\WebJet\Core\FlightsDashboard\Core.Services\obj\Debug\net6.0\Core.Services.AssemblyInfo.cs
+C:\WebJet\Core\FlightsDashboard\Core.Services\obj\Debug\net6.0\Core.Services.csproj.CoreCompileInputs.cache
+C:\WebJet\Core\FlightsDashboard\Core.Services\obj\Debug\net6.0\Core.Services.csproj.CopyComplete
+C:\WebJet\Core\FlightsDashboard\Core.Services\obj\Debug\net6.0\Core.Services.dll
+C:\WebJet\Core\FlightsDashboard\Core.Services\obj\Debug\net6.0\ref\Core.Services.dll
+C:\WebJet\Core\FlightsDashboard\Core.Services\obj\Debug\net6.0\Core.Services.pdb
